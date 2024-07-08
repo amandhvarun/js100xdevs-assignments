@@ -5,7 +5,7 @@ You have to follow the instructions given in each file and write the code in the
 
 ### Assignments
 Feel free to start doing these in any order you like.
-1. Easy
+1. Easy       (done)
 2. Medium
 3. Hard
 
